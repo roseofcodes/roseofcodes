@@ -44,7 +44,7 @@ No momento me encontro realizando graduação, cursando Análise e Desenvolvimen
 <div align="center">
 <img width="50%" alt="image" src="https://github.com/user-attachments/assets/8b9cc107-4e30-4e21-8e4b-2fe7e515253a" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=sakura-x)](https://git.io/streak-stats) <br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=roseofcodes&theme=sakura-x)](https://git.io/streak-stats) <br>
   
 </div>
 <div align="center">
