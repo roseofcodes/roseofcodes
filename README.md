@@ -40,7 +40,7 @@ No momento me encontro realizando graduação, cursando Análise e Desenvolvimen
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="#"/><br>
   
 
-  ### Pokémons Favoritos
+  ### Pokémons Favoritos <img src="./espeon_by_creepyjellyfish_d7a444k.gif" height="35"/>
 
 </div><br>
 
