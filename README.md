@@ -44,6 +44,7 @@ No momento me encontro realizando graduação, cursando Análise e Desenvolvimen
   <div>
     <img src="haunter_by_creepyjellyfish_d7a49j4.gif" height="50"/>&nbsp
     <img src="jigglypuff_by_creepyjellyfish_d7a49h0.gif" height="50"/>
+    <img src="arcanine_by_creepyjellyfish_d7a43de.gif" height="70"/>
   </div>
 </div><br>
 
