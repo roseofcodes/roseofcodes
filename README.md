@@ -58,6 +58,8 @@ No momento me encontro realizando graduação, cursando Análise e Desenvolvimen
 <img width="50%" alt="image" src="https://github.com/user-attachments/assets/8b9cc107-4e30-4e21-8e4b-2fe7e515253a" />
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=roseofcodes&theme=sakura-x)](https://git.io/streak-stats) <br>
+
+<img src="./pixelgif.webp" width="65%"/>
   
 </div>
 <div align="center">
