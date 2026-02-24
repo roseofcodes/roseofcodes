@@ -19,25 +19,29 @@ No momento me encontro realizando graduação, cursando Análise e Desenvolvimen
   <img src="./bootstrap.svg" height="60"/>
 </div>
 
-## Ambientes de Desenvolvimento Integrado (IDEs)
+## Ambientes de Desenvolvimento Integrado(IDEs)
 
 <div>
   <img src="./eclipse.svg" height="60"/>
   <img src="./vscode.svg" height="60"/>
 </div>
 
-## Sistemas Operacionais Explorados (SO)
+## Sistemas Operacionais(SO) Explorados
 
 <div>
   <img src="./windows.svg" height="60"/>
   <img src="./linux.svg" height="60"/>
 </div>
 
-## Redes Sociais
+## Social
 <div>
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title=""/>
   <a  href="https://www.instagram.com/evbarretoo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="#"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="#"/><br>
+  
+
+  ### Pokémons Favoritos
+
 </div><br>
 
 <img width="100%" height="2" alt="image" src="https://github.com/user-attachments/assets/a612cb94-bb30-4bda-a51c-b3df0a0b408e" />
