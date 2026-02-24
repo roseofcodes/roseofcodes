@@ -41,7 +41,10 @@ No momento me encontro realizando graduação, cursando Análise e Desenvolvimen
   
 
   ### Pokémons Favoritos <img src="./espeon_by_creepyjellyfish_d7a444k.gif" height="35"/>
-
+  <div>
+    <img src="haunter_by_creepyjellyfish_d7a49j4.gif" height="50"/>&nbsp
+    <img src="jigglypuff_by_creepyjellyfish_d7a49h0.gif" height="50"/>
+  </div>
 </div><br>
 
 <img width="100%" height="2" alt="image" src="https://github.com/user-attachments/assets/a612cb94-bb30-4bda-a51c-b3df0a0b408e" />
