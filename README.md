@@ -44,7 +44,10 @@ No momento me encontro realizando graduação, cursando Análise e Desenvolvimen
   <div>
     <img src="haunter_by_creepyjellyfish_d7a49j4.gif" height="50"/>&nbsp
     <img src="jigglypuff_by_creepyjellyfish_d7a49h0.gif" height="35"/>&nbsp
-    <img src="arcanine_by_creepyjellyfish_d7a43de.gif" height="65"/>&nbsp
+    <img src="lapras_by_pokemon3dsprites_d9jn2od.gif" height="65"/>&nbsp
+    <img src="jolteon_by_pokemon3dsprites_d9jn2sr.gif" height="55"/>
+    <img src="articuno_by_pokemon3dsprites_d9jn42q.gif" height="95"/>
+    <img src="arcanine_by_creepyjellyfish_d7a43de.gif" height="60"/>&nbsp
     <img src="gastly_by_creepyjellyfish_d7a49m3.gif" height="45"/>
   </div>
 </div><br>
