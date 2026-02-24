@@ -33,7 +33,7 @@ No momento me encontro realizando graduação, cursando Análise e Desenvolvimen
   <img src="./linux.svg" height="60"/>
 </div>
 
-## Social
+### Redes Sociais
 <div>
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title=""/>
   <a  href="https://www.instagram.com/evbarretoo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -59,9 +59,9 @@ No momento me encontro realizando graduação, cursando Análise e Desenvolvimen
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=roseofcodes&theme=sakura-x)](https://git.io/streak-stats) <br>
 
-<img src="./pixelgif.webp" width="65%"/>
   
-</div>
+</div><br>
+<img src="./pixelgif.webp" width="65%"/>
 <div align="center">
   <img width="100%" height="2" alt="image" src="https://github.com/user-attachments/assets/a612cb94-bb30-4bda-a51c-b3df0a0b408e" />
 </div><br>
